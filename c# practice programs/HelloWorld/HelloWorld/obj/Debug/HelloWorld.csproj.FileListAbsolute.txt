@@ -1,0 +1,5 @@
+E:\c# practice programs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\c# practice programs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\c# practice programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\c# practice programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\c# practice programs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,4 @@
+E:\c# practice programs\Operations\Operations\bin\Debug\Operations.exe
+E:\c# practice programs\Operations\Operations\bin\Debug\Operations.pdb
+E:\c# practice programs\Operations\Operations\obj\Debug\Operations.exe
+E:\c# practice programs\Operations\Operations\obj\Debug\Operations.pdb

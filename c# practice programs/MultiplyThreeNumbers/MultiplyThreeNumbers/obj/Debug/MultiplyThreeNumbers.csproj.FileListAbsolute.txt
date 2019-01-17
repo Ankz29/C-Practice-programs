@@ -1,0 +1,4 @@
+E:\c# practice programs\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\MultiplyThreeNumbers.exe
+E:\c# practice programs\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\MultiplyThreeNumbers.pdb
+E:\c# practice programs\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.exe
+E:\c# practice programs\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\MultiplyThreeNumbers.pdb

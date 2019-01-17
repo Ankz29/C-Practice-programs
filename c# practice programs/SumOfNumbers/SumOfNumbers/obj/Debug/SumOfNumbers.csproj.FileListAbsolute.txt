@@ -1,0 +1,4 @@
+E:\c# practice programs\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+E:\c# practice programs\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+E:\c# practice programs\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+E:\c# practice programs\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

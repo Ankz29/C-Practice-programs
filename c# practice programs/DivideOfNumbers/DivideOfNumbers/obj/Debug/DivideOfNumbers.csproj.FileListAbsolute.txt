@@ -1,0 +1,4 @@
+E:\c# practice programs\DivideOfNumbers\DivideOfNumbers\bin\Debug\DivideOfNumbers.exe
+E:\c# practice programs\DivideOfNumbers\DivideOfNumbers\bin\Debug\DivideOfNumbers.pdb
+E:\c# practice programs\DivideOfNumbers\DivideOfNumbers\obj\Debug\DivideOfNumbers.exe
+E:\c# practice programs\DivideOfNumbers\DivideOfNumbers\obj\Debug\DivideOfNumbers.pdb

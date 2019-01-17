@@ -1,0 +1,5 @@
+E:\c# practice programs\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe
+E:\c# practice programs\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.pdb
+E:\c# practice programs\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.exe
+E:\c# practice programs\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.pdb
+E:\c# practice programs\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csprojResolveAssemblyReference.cache

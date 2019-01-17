@@ -1,0 +1,5 @@
+E:\c# practice programs\Hello_Name\Hello_Name\bin\Debug\Hello_Name.exe
+E:\c# practice programs\Hello_Name\Hello_Name\bin\Debug\Hello_Name.pdb
+E:\c# practice programs\Hello_Name\Hello_Name\obj\Debug\Hello_Name.csprojResolveAssemblyReference.cache
+E:\c# practice programs\Hello_Name\Hello_Name\obj\Debug\Hello_Name.exe
+E:\c# practice programs\Hello_Name\Hello_Name\obj\Debug\Hello_Name.pdb

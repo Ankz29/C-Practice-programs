@@ -1,0 +1,4 @@
+E:\c# practice programs\ArithematicOperators\ArithematicOperators\bin\Debug\ArithematicOperators.exe
+E:\c# practice programs\ArithematicOperators\ArithematicOperators\bin\Debug\ArithematicOperators.pdb
+E:\c# practice programs\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.exe
+E:\c# practice programs\ArithematicOperators\ArithematicOperators\obj\Debug\ArithematicOperators.pdb

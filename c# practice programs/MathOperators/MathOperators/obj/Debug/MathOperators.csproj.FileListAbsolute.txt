@@ -1,0 +1,4 @@
+E:\c# practice programs\MathOperators\MathOperators\bin\Debug\MathOperators.exe
+E:\c# practice programs\MathOperators\MathOperators\bin\Debug\MathOperators.pdb
+E:\c# practice programs\MathOperators\MathOperators\obj\Debug\MathOperators.exe
+E:\c# practice programs\MathOperators\MathOperators\obj\Debug\MathOperators.pdb

@@ -1,0 +1,5 @@
+E:\c# practice programs\AverageNumbers\AverageNumbers\bin\Debug\AverageNumbers.exe
+E:\c# practice programs\AverageNumbers\AverageNumbers\bin\Debug\AverageNumbers.pdb
+E:\c# practice programs\AverageNumbers\AverageNumbers\obj\Debug\AverageNumbers.csprojResolveAssemblyReference.cache
+E:\c# practice programs\AverageNumbers\AverageNumbers\obj\Debug\AverageNumbers.exe
+E:\c# practice programs\AverageNumbers\AverageNumbers\obj\Debug\AverageNumbers.pdb

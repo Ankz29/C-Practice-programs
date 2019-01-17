@@ -1,0 +1,4 @@
+E:\c# practice programs\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+E:\c# practice programs\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+E:\c# practice programs\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+E:\c# practice programs\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
